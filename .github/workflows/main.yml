@@ -1,0 +1,4 @@
+- name: Setup TypeScript
+# You may pin to the exact commit or the version.
+# uses: Tyler887/TypeScript-GitHub-Actions@53e31ff564a77d333d0b3e7aebfca502079
+- uses: Tyler887/TypeScript-GitHub-Actions@1.0
